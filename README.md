@@ -1,12 +1,5 @@
 # Faveorite Movie
 
-## Features
-- Home page with inviting hero section and featured products.
-- Menu page displaying various coffee blends and pastries.
-- About Us page featuring the cafe's story, team, and mission.
-- Contact page with cafe's contact information and a form for inquiries.
-- Embedded map showing the cafe's location.
-
 ## About the Authors
 <img src='https://avatars.githubusercontent.com/u/132073115?v=4' style=" width: 150px; border-radius: 50%;">
 
